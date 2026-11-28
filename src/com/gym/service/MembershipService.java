@@ -1,4 +1,4 @@
 package com.gym.service;
 
-public class MembershipService {
-}
+import com.gym.exception.EntityNotFoundException;
+import com.gym.model.
